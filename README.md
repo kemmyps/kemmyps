@@ -25,9 +25,9 @@ Atualmente, estou trabalhando em projetos de Java para aprimorar minhas habilida
 
 ## Contato
 
-- Email: kemmilyps1@gmail.com
-- LinkedIn (https://www.linkedin.com/in/seu_perfil/)
-- Twitter (https://twitter.com/seu_perfil)
+[![Email Badge](https://img.shields.io/badge/Email-ENVIE_SEU_EMAIL-red)](mailto:kemmilyps1@gmail.com)
+[![Twitter Badge](https://img.shields.io/twitter/follow/KemmilySouza_?style=social)](https://twitter.com/KemmilySouza_)
+[![LinkedIn Badge](https://img.shields.io/badge/kemmily-souza-blue)](https://www.linkedin.com/in/kemmily-souza/)
 
 Fique à vontade para me contatar, compartilhar dicas de aprendizado ou apenas conversar sobre programação!
 ```

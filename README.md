@@ -1,6 +1,4 @@
-### Hi there 👋
-```
-# Olá, eu sou a Kemys!
+### Olá, eu sou a Kemmily ou pode me chamar só de Kemys 👋
 
 ## Sobre mim
 

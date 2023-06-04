@@ -28,4 +28,6 @@ Eu sou uma programadora iniciante e atualmente estou aprendendo a linguagem Java
 
 
 Fique à vontade para me contatar, compartilhar dicas de aprendizado ou apenas conversar sobre programação!
-```
+
+![github-user-contribution](https://github.com/kemmyps/kemmyps/assets/21312531/57c63037-c2f1-4d73-8843-1ecb65607ef5)
+

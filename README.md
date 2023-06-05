@@ -1,4 +1,5 @@
-### Olá, eu sou a Kemmily ou pode me chamar só de Kemys 👋
+### :wave: Olá, eu sou a Kemmily ou pode me chamar só de Kemys :alien:
+
 
 Eu sou uma programadora iniciante e atualmente estou aprendendo a linguagem Java.
 

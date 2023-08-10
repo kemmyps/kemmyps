@@ -1,8 +1,7 @@
+
 # 👋 Hello, I'm Kemmily Souza!
 
-# Welcome to my GitHub Profile!
-
-![Banner](link_to_your_banner.png)
+# Welcome to my GitHub Profile!!
 
 ## About Me
 Hello! I'm Kemmily, a student in the Analysis and Systems Development course at PUCGO 01/2023, where I develop my projects mainly in the JAVA language.

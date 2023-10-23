@@ -32,3 +32,7 @@ Feel free to get in touch with me through the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kemmily-souza/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:kemmilyps1@gmail.com)
+
+## Check out my page
+[Portfólio no GitHub](https://kemmyps.github.io)
+

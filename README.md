@@ -34,5 +34,6 @@ Feel free to get in touch with me through the following platforms:
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:kemmilyps1@gmail.com)
 
 ## Check out my page
-[Portfólio no GitHub](https://kemmyps.github.io)
+![Static Badge](https://img.shields.io/badge/PORTFOLIO-red?link=https%3A%2F%2Fkemmyps.github.io)
+
 
